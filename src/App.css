@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main{
+    @apply flex flex-col items-center font-sans;
+}
+
+header{
+    @apply w-full bg-sky-500 flex justify-center;
+}
+
+h1{
+    @apply  text-white font-semibold text-3xl py-2;
+}
+
+article{
+    @apply w-80 flex flex-col items-center my-4 gap-2 rounded-md shadow-xl px-3 pt-4 md:w-[40rem] ;
+}
+
+h2{
+    @apply font-semibold text-xl py-1 md:text-2xl;
+}
+
+img{
+    @apply w-[35rem];
+}
+
+p{
+    @apply text-left text-lg leading-none w-full md:w-[35rem] md:text-xl;
+}
+
+button{
+    @apply bg-cyan-500 shadow-lg shadow-cyan-500/50 w-full rounded-md py-1 mb-5 md:w-[35rem];
+}
+
+footer{
+    @apply my-3 py-3 text-center rounded-md bg-slate-200 w-80 md:w-[40rem];
+}
+
+a{
+    @apply underline decoration-indigo-500 underline-offset-2;
+}
