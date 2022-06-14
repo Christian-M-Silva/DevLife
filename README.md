@@ -3,8 +3,8 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [How to run the project](#How-to-run-the-project)
   - [The objectives](#the-objectives)
+  - [How to run the project](#How-to-run-the-project)
   - [Solution link](#Solution-link)
   - [Solution video](#Solution-video)
   - [Screenshot](#screenshot)
@@ -20,6 +20,15 @@
 - Create a responsive ReactJS web application that consumes an existing API.
 
 ### How to run the project
+  After downloading the application to your machine, run it in the terminal:
+  
+    npm i
+
+  After successful installation of all packages, run in terminal:
+  
+    npm run dev
+
+  **Open [http://localhost:3000](http://localhost:3000) to view it in your browser. Possible errors caused by changes can be seen in the console.**
 
 ### Solution link
 
