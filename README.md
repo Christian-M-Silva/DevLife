@@ -33,7 +33,7 @@
 
 Desktop ![](Screenshot/Desktop-one.PNG) ![](Screenshot/Desktop-two.PNG) 
 
-Mobile Portrait ![] <br/> (Screenshot/Mobile-Portrait-one.PNG) ![](Screenshot/Mobile-Portrait-two.PNG)
+Mobile Portrait <br/> ![](Screenshot/Mobile-Portrait-one.PNG) ![](Screenshot/Mobile-Portrait-two.PNG)
 
 Mobile Landscape![](Screenshot/Mobile-landscape-one.PNG) ![](Screenshot/Mobile-landscape-two.PNG)
 
