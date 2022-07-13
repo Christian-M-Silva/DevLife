@@ -32,7 +32,7 @@
 
 ### Solution link
 
-[Click here to go to the project](https://christian-m-silva.github)
+[Click here to go to the project](https://62cec602461fd815ff842b0e--dazzling-biscuit-016182.netlify.app/)
 
 ### Solution video
 
